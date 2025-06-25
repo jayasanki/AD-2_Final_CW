@@ -64,8 +64,8 @@ Each service is an independent Spring Boot application.
 ### 🔷 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/spms-project.git
-cd spms-project
+[git clone https://github.com/your-username/spms-project.git
+cd spms-project](https://github.com/jayasanki/AD-2_Final_CW.git)
 ```
 
 ### 🔷 2. Start Services in Order
