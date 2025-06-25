@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: parking-space-service
+    name: parking-space-managae
   config:
     import: optional:configserver:http://localhost:8888
   datasource:
